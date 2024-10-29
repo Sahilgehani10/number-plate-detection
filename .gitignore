@@ -1,0 +1,10 @@
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
